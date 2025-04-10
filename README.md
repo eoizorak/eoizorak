@@ -9,7 +9,7 @@
 ---
 
 #### 🚀 Tecnologias que estou estudando:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,git)](https://skillicons.dev)
 
 ---
 
