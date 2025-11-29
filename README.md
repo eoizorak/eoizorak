@@ -1,38 +1,57 @@
-# Olá, eu sou o Matheus! 👋
-## Backend Developer | Java & .NET Ecosystem
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Matheus;Backend+Developer;Java+%26+.NET+Ecosystem;Gest%C3%A3o+de+TI+%26+E-commerce" alt="Typing SVG" />
 
-Sou um desenvolvedor focado em construir soluções robustas e escaláveis. Com um background sólido em **Gestão e TI**, trago uma visão de negócio para o código, garantindo que as soluções técnicas resolvam problemas reais.
+  <p>
+    <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+  </p>
 
-Atualmente, concentro meu desenvolvimento na criação de APIs RESTful, microsserviços e integração de sistemas.
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack & Ferramentas
+### 👨‍💻 Sobre mim
 
-**Back-End:**
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+Sou um desenvolvedor focado em **Back-End** com um diferencial: minha experiência prévia em **Gestão e TI**. Isso me permite escrever código com visão de negócio, criando soluções robustas em **Java** e **.NET** que resolvem problemas reais.
 
-**Database & Cloud:**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 🔭 Atualmente trabalhando em: **APIs RESTful e Integração de Sistemas**
+- 🌱 Aprendendo profundamente: **Arquitetura de Microsserviços & Cloud (AWS)**
+- 💼 Objetivo: **Desenvolvimento de Software Escalável**
 
-**Tools:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
----
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoizorak&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoizorak&layout=compact&theme=dracula&hide_border=true)
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eoizorak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoizorak&layout=compact&theme=dracula"/>
+</div>
 
----
+<br>
 
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsaugustomatheus/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iz0r4k@gmail.com)
+<div align="center">
+  <h3>🐍 Minhas Contribuições</h3>
+  <img src="https://raw.githubusercontent.com/eoizorak/eoizorak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
